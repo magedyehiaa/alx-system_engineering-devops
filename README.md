@@ -1,1 +1,2 @@
-not empty
+#!/bin/bash
+shell basics work
