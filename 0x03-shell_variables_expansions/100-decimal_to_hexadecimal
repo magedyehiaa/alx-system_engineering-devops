@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "obase=8; $DECIMAL" | bs
+echo "obase=8; $DECIMAL"
